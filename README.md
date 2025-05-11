@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Clive Ouma</h1>
 <h3 align="center">A Full-stack developer, Aspiring data scientist passionate about AI and Machine Learning</h3>
 
-- 🌱 I'm Currently learning Java & Spring Boot 
+- 🌱 I'm Working with Java & Spring Boot
+
+- 👨‍💻 Learning C# and .NET Framework 
   
-- 🔍 Exploring Python for Data Analysis
+- 🔍 Exploring Python for Data Analysis and Backend Development
   
 - 👯 I’m looking to collaborate on **open source projects**
 
