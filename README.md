@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clive Ouma</h1>
-<h3 align="center">A Full-stack developer, Aspiring data scientist passionate about AI and Machine Learning</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🌱 I'm Working with Java & Spring Boot
 
