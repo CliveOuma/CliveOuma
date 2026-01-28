@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Clive Ouma</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I'm Working with Java & Spring Boot
-
-- 👨‍💻 Learning C# and .NET Framework 
+- 🌱 I'm Working with Python (FastAPI & Django)
   
-- 🔍 Exploring Python for Data Analysis and Backend Development
+- 🔍 Learning Java & Spring Boot 
   
 - 👯 I’m looking to collaborate on **open source projects**
 
